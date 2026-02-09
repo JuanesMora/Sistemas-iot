@@ -12,3 +12,10 @@ print(f"tu nombres es: {nombre} y tu edad es {n}")
 
 for i in range(1,11):
     print(i)
+
+
+def sumar(a,b):
+    sum = a+b
+    print(sum)
+
+sumar(2,3)
